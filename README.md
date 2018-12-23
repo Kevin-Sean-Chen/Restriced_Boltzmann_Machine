@@ -5,6 +5,8 @@ New review: https://arxiv.org/pdf/1806.07066.pdf
 
 Energy models in general: https://arxiv.org/pdf/1708.06008.pdf
 
+Nice ppt intro: https://www.cs.toronto.edu/~hinton/csc2535/notes/lec4new.pdf
+
 
 First, initialize an RBM with the desired number of visible and hidden units.
 
